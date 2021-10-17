@@ -1,0 +1,15 @@
+/node_modules
+/smart_contracts/node_modules
+npm-debug.log
+.DS_Store
+.gitconfig
+.idea
+*.log
+files/
+.vscode/settings.json
+ganache/
+.secret
+all.sol
+smart_contracts/.secret_klaytn
+smart_contracts/scripts
+
